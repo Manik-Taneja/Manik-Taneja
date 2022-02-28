@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manik Taneja
 - 👀 I’m interested in Machine Learning, Deep Learning and Natural Language Processing.
-- 🌱 I’m currently learning HTML, CSS and javascript.
+- 🌱 I’m currently learning Django and Data Engineering.
 - 💞️ I’m looking to collaborate on open source learning.
 - 📫 If you have an idea reach out to me at manik_taneja@tamu.edu
 
